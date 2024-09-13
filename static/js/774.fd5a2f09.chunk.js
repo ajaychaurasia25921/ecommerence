@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodernize=self.webpackChunkmodernize||[]).push([[774],{774:(e,n,r)=>{r.r(n),r.d(n,{default:()=>i});r(9950);var s=r(4414);const i=function(){return(0,s.jsx)("div",{children:"Callhistory"})}}}]);
