@@ -2,7 +2,7 @@
    "name":"modernize",
    "version":"0.1.0",
    "private":true,
-   "homepage":"https://ajaychaurasia25921.github.io/home",
+   "homepage":"https://ajaychaurasia25921.github.io/ecommerence",
    "dependencies":{
       "@emotion/react":"^11.13.3",
       "@emotion/styled":"^11.13.0",
