@@ -2,6 +2,7 @@
   "name": "modernize",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ajaychaurasia25921.github.io/ecommerence",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
@@ -58,6 +59,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
+    "gh-pages": "^6.1.1",
     "prettier": "^2.3.1"
   },
   "scripts": {
