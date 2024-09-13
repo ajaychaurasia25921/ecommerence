@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmodernize=self.webpackChunkmodernize||[]).push([[565],{5565:(e,n,r)=>{r.r(n),r.d(n,{default:()=>t});r(9950);var s=r(4414);const t=function(){return(0,s.jsx)("div",{children:"Reports"})}}}]);
